@@ -10,5 +10,5 @@ https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_ie/EmSY
 2. The trained models using all the three optimizers SGD, ADAM and ADAMW can be found in the following in the following link. The link also provided optimzed version of the model using TensorFlowLite tool in the SGD model folder.
 https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_ie/EoomnUQ1xxNKqPDfCJgtQMsBnGiEaKtUsj8zUMc71EPnhQ?e=vlpjGT 
 
-3. The overall validation/ testing results using different confedence threshold and IoU threshlod can be found in the follwing link.
+3. The overall validation/ testing results using different confidence threshold and IoU threshold can be found in the following link.
 https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_ie/ErYzIbafONlKl04jTAnpFQkBEK9-B2N350DWgSnk8rIGLw?e=lknp0f
