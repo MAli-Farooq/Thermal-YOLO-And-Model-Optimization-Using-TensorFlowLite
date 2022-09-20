@@ -1,8 +1,5 @@
 # Thermal-YOLO and TensorFlowLite Optimizatiom
 
-![](images/inference-results.png)
-![](images/006751.png)
-
 This repo contains all the codes. trained models, optimized version of models using TensorflowLite tool and validatation results
 
 The complete YOLO-v5 folder can be cloned from the follwing github repo link.
@@ -12,7 +9,8 @@ The locally acquired C3I thermal automative dataset can be downloaded from IEEE 
 LInk: https://ieee-dataport.org/documents/c3i-thermal-automotive-dataset
 
 1. The complete inference results on public as well as locally acquired datsets can be found in the following link.
-![](images/inference-results.PNG)
+![](images/inference-results.png)
+![](images/006751.png)
 
 https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_ie/EmSY4MawO89Kt_6wsDn_V1YBzeuwLYe6z2b2VU2WJp0b3g?e=wb8IgU 
 
