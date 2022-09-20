@@ -21,7 +21,11 @@ https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_ie/EmSY
 https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_ie/EoomnUQ1xxNKqPDfCJgtQMsBnGiEaKtUsj8zUMc71EPnhQ?e=vlpjGT 
 
 3. The overall validation/ testing results using different confidence threshold and IoU threshold can be found in the following link.
-![](images/Comparasion-Results.png)
-![](images/Loss Comparasion Results)
+![](images/Test-Results-1.png)
+![](images/Test-Results-2.png)
+![](images/Test-Results-3.png)
+![](images/Test-Results-4.png)
+![](images/Test-Results-5.png)
+![](images/Test-Results-6.png)
 
 https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_ie/ErYzIbafONlKl04jTAnpFQkBEK9-B2N350DWgSnk8rIGLw?e=lknp0f
