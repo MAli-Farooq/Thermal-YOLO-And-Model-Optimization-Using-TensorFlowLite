@@ -16,7 +16,7 @@ Link: https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_i
 
 2. The trained models using all the three optimizers SGD, ADAM and ADAMW can be found in the following link. The link also provided optimized version of the model using TensorFlowLite tool in the SGD model folder.
 ![](images/Comparasion-Results.png)
-![](images/Loss Comparasion Results)
+![](images/Loss-Comparasion-Results.png)
 
 https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_ie/EoomnUQ1xxNKqPDfCJgtQMsBnGiEaKtUsj8zUMc71EPnhQ?e=vlpjGT 
 
