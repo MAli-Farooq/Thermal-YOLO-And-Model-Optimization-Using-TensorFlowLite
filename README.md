@@ -1,6 +1,6 @@
 # Thermal-YOLO and TensorFlowLite Optimizatiom
 
-![](images/inference-results.PNG)
+![](images/inference-results.png)
 ![](images/006751.png)
 
 This repo contains all the codes. trained models, optimized version of models using TensorflowLite tool and validatation results
