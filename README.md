@@ -11,9 +11,11 @@ Link: https://ieee-dataport.org/documents/c3i-thermal-automotive-dataset
 1. The complete inference results on public as well as locally acquired datsets can be found in the following link.
 ![](images/inference-results.png)
 ![](images/006751.png)
+<br>
 
 ```bash
 https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_ie/EmSY4MawO89Kt_6wsDn_V1YBzeuwLYe6z2b2VU2WJp0b3g?e=wb8IgU
+<br>
 
 2. The trained models using all the three optimizers SGD, ADAM and ADAMW can be found in the following link. The link also provided optimized version of the model using TensorFlowLite tool in the SGD model folder.
 ![](images/Comparasion-Results.png)
