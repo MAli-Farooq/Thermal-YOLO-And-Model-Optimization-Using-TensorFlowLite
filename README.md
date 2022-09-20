@@ -1,4 +1,7 @@
 # Thermal-YOLO and TensorFlowLite Optimizatiom
+
+![](images/inference-results.PNG)
+
 This repo contains all the codes. trained models, optimized version of models using TensorflowLite tool and validatation results
 
 The complete YOLO-v5 folder can be cloned from the follwing github repo link.
